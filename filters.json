@@ -1,0 +1,32 @@
+[
+  {
+    "model": "iphone 11",
+    "channelId": 1395093132600938516,
+    "minPrice": 100
+  },
+  {
+    "model": "iphone 12",
+    "channelId": 1395093171146457179,
+    "minPrice": 200
+  },
+  {
+    "model": "iphone 13",
+    "channelId": 1395093205518778388,
+    "minPrice": 300
+  },
+  {
+    "model": "iphone 14",
+    "channelId": 1395093244987314266,
+    "minPrice": 400
+  },
+  {
+    "model": "iphone 15",
+    "channelId": 1395093278352871484,
+    "minPrice": 500
+  },
+  {
+    "model": "iphone 16",
+    "channelId": 1395093315757805608,
+    "minPrice": 600
+  }
+]
